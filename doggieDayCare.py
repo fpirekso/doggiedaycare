@@ -28,7 +28,7 @@ print(dogs)
 
 # Programatcially print out a list of the first three dogs.
 
-print(dogs[:4])
+print(dogs[:3])
 
 
 
